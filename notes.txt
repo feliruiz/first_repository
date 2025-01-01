@@ -1,1 +1,2 @@
 Notes about my analysis
+temp.txt is a file that is being ignored by the repository
