@@ -3,3 +3,4 @@
  Example repository used for demonstration purposes
 
 notes.txt holds notes about the analysis
+results.txt contains output from the analysis
