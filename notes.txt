@@ -1,2 +1,3 @@
 Notes about my analysis
 temp.txt is a file that is being ignored by the repository
+Making additional changes to see changes on GitHub
